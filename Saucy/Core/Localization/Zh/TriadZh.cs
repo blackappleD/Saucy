@@ -14,6 +14,8 @@ internal static class TriadZh
         ["Open window when challenging an NPC"] = "挑战 NPC 时自动打开窗口",
         ["Gold Saucer card search panels"] = "金碟游乐场卡牌搜索面板",
         ["Shows a searchable card list beside the Gold Saucer card UI, including Edit Deck (TriadBuddy-style [No.1] ordering). Also shows NPC search on the main card collection screen."] = "在金碟游乐场卡牌界面旁显示可搜索的卡牌列表，包括编辑卡组（TriadBuddy 风格的 [No.1] 排序）。同时在卡牌收藏主界面显示 NPC 搜索。",
+        ["Register won cards automatically"] = "自动登记赢得的卡牌",
+        ["Uses Triple Triad card items in your inventory that aren't in your collection yet, once triad automation is idle."] = "幻卡自动化空闲时，自动使用背包中尚未登记到收藏的九宫幻卡道具。",
 
         // --- TriadSettingsUi: card sections ---
         ["Deck"] = "卡组",

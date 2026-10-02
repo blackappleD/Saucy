@@ -4,7 +4,7 @@
         <Authors>Puni.sh, blackappleD</Authors>
         <!--
             Fork versioning: upstream's first three segments, then a four-digit
-            fork revision. Upstream uses the fourth segment itself (2.1.2.2), so
+            fork revision. Upstream uses the fourth segment itself (2.1.2.3), so
             starting the fork revision at 2001 keeps this branch strictly above
             any upstream 2.1.2.x release and strictly below upstream 2.1.3.
         -->
