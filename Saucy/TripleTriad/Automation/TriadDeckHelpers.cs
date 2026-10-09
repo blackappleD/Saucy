@@ -1,4 +1,6 @@
 using System;
+using Saucy.Localization;
+
 namespace Saucy.TripleTriad;
 
 internal static class TriadDeckLog

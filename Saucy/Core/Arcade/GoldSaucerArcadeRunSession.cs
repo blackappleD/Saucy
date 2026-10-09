@@ -1,6 +1,8 @@
 using Saucy.CuffACur;
+using Saucy.Localization;
 using Saucy.OutOnALimb;
 using System;
+
 namespace Saucy;
 
 internal enum GoldSaucerArcadeMachine
